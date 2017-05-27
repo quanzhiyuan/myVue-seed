@@ -1,0 +1,316 @@
+{
+    "errcode": 0,
+    "description": "操作成功",
+    "data": {
+        "title": "设计素材",
+        "categorys": [],
+        "leftCategorys": [],
+        "posts": [
+            {
+                "_id": "59279150d4095a2514be7ace",
+                "uid": "76281703",
+                "name": "全志渊",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试7",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694169&client_id=200547&scode=TXE2NEo4YW5IcWYrWkdCSkhYanBT&height=200&sign=d43c95cc111250e1942fdaf196b8cead4ce2d670"
+                },
+                "showPhoto": [],
+                "text": "的的",
+                "startDate": null,
+                "newFolderId": "4098517",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 11,
+                "comments": [],
+                "tags": [],
+                "category2": [
+                    {
+                        "_id": "591e5fb0d82529145405981f",
+                        "name": "赏设计"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098517&id=59279150d4095a2514be7ace&name=测试7.zip"
+            },
+            {
+                "_id": "5927913c70fbfe243c2521f9",
+                "uid": "76281703",
+                "name": "全志渊",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试6",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694167&client_id=200547&scode=UzhkdD1IS0REMzRkdzBoVmJTUkJs&height=200&sign=8ae3c52343b4bd7c93c1cb55c72168c5fd4e9f7a"
+                },
+                "showPhoto": [],
+                "text": "的",
+                "startDate": null,
+                "newFolderId": "4098515",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 5,
+                "comments": [],
+                "tags": [],
+                "category2": [
+                    {
+                        "_id": "591e5fb7d825291454059820",
+                        "name": "学方法"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098515&id=5927913c70fbfe243c2521f9&name=测试6.zip"
+            },
+            {
+                "_id": "5927912570fbfe243c2521f7",
+                "uid": "76281703",
+                "name": "全志渊",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试5",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694161&client_id=200547&scode=RnNzTkNpRFdPVEQyOHZSME5USHVl&height=200&sign=1051d29382e3d1fb348f2ded853d9536dfb72cef"
+                },
+                "showPhoto": [],
+                "text": "的",
+                "startDate": null,
+                "newFolderId": "4098497",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 3,
+                "comments": [],
+                "tags": [
+                    {
+                        "label": "金蝶",
+                        "value": "58b40fab701f2f1dc421b741"
+                    }
+                ],
+                "category2": [
+                    {
+                        "_id": "591e5fb0d82529145405981f",
+                        "name": "赏设计"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098497&id=5927912570fbfe243c2521f7&name=测试5.zip"
+            },
+            {
+                "_id": "592790f570fbfe243c2521f5",
+                "uid": "76281703",
+                "name": "全志渊",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试5",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694141&client_id=200547&scode=YnlBb24xazlsZmJwdDNiWD12eFNk&height=200&sign=a33ae5f3ce173fdd4f3c2a50922d4cf04f6a4194"
+                },
+                "showPhoto": [],
+                "text": "发",
+                "startDate": null,
+                "newFolderId": "4098479",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 3,
+                "comments": [],
+                "tags": [
+                    {
+                        "label": "节日",
+                        "value": "58ac24d0f797b31fbc99e46b"
+                    }
+                ],
+                "category2": [
+                    {
+                        "_id": "591e5fb0d82529145405981f",
+                        "name": "赏设计"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098479&id=592790f570fbfe243c2521f5&name=测试5.zip"
+            },
+            {
+                "_id": "592790dfba53f91f90fc42e1",
+                "uid": "76281703",
+                "name": "全志渊",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试4",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694125&client_id=200547&scode=M053dHR1b0E0SjQ9N0oxLz0wLTRE&height=200&sign=783c024838de8478fa0e98474762d277f39d2d52"
+                },
+                "showPhoto": [],
+                "text": "的的",
+                "startDate": null,
+                "newFolderId": "4098437",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 6,
+                "comments": [],
+                "tags": [
+                    {
+                        "label": "节日",
+                        "value": "58ac24d0f797b31fbc99e46b"
+                    }
+                ],
+                "category2": [
+                    {
+                        "_id": "588471cc08ec05162c2e18d8",
+                        "name": "看竞品"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098437&id=592790dfba53f91f90fc42e1&name=测试4.zip"
+            },
+            {
+                "_id": "59279068e08cb021600ef486",
+                "uid": "12720000",
+                "name": "武景",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试2",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8694101&client_id=200547&scode=ZUpQc3JyejlxS1c4Q0tXY0w3Nm9I&height=200&sign=d033fa7485fa4b0abc0192b0a62e897617471b26"
+                },
+                "showPhoto": [],
+                "text": "的 的d",
+                "startDate": null,
+                "newFolderId": "4098389",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 3,
+                "comments": [],
+                "tags": [
+                    {
+                        "label": "商务",
+                        "value": "58afa657386c2f2818d9500d"
+                    }
+                ],
+                "category2": [
+                    {
+                        "_id": "588471cc08ec05162c2e18d8",
+                        "name": "看竞品"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098389&id=59279068e08cb021600ef486&name=测试2.zip"
+            },
+            {
+                "_id": "59278e0760973727d4455e87",
+                "uid": "12720000",
+                "name": "武景",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "测试1",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8693913&client_id=200547&scode=N0hkcFRKUnFoRVR3UnNJa3crOGNw&height=200&sign=e98946dcdc16f96e65269db0a25cae5481c6bdf8"
+                },
+                "showPhoto": [],
+                "text": "测试去",
+                "startDate": null,
+                "newFolderId": "4098191",
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 3,
+                "comments": [],
+                "tags": [
+                    {
+                        "label": "成人",
+                        "value": "58b4e7ec6cd6801d8833d9e0"
+                    }
+                ],
+                "category2": [
+                    {
+                        "_id": "591e5fb0d82529145405981f",
+                        "name": "赏设计"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4098191&id=59278e0760973727d4455e87&name=测试1.zip"
+            },
+            {
+                "_id": "592633ede4b67621f4cbc1ad",
+                "uid": "12030704",
+                "name": "李晖",
+                "category": {
+                    "_id": "588470ad08ec05162c2e18c1",
+                    "name": "分类阅读"
+                },
+                "title": "《从“后知后觉”到“先见之明”释放物联网工业领域价值》研报导读",
+                "coverPhoto": {
+                    "url": "http://api.kingdee.com/kdrive/user/file/thumbnail?file_id=8681337&client_id=200547&scode=VVltV1dZMmFYVC9wNVI1Qy83OFE4&height=200&sign=75a86984d11a1d0ae30e416ea3ebd1fbee58608d"
+                },
+                "showPhoto": [],
+                "text": "本期UED研报为大家推荐的是德勤2017年5月发布的报告《从“后知后觉”到“先见之明”-释放物联网工业领域价值》。德勤对中国156家制造业企业进行了调研，探究了企业工业物联网应用的现状、趋势和挑战，而后汇编为此报告。 \n\n\n\t  \n\n\n\t报告认为，工业领域物联网应用之所以价值潜力巨大，在于它能创造“信息及洞察力”这一区别于产品和服务的全新价值源，在效率提升、业务成长、风险管理控制等方面产生商业价值。 \n\n\n\t  \n\n\n\t中国制造企业虽然普遍认同工业物联网的重要性，但却尚未形成清晰的物联网战略。仅有46%的企业制定了比较清晰的工业物联网战略和规划。在数据应用上，制造企业还处于初级阶段，从“后知后觉”到“先见之明”尚需时日。大部分企业利用采集到的数据解释历史表现的规律和根本原因，而非将数据用于预测性分析支持决策。效率提升、收入增长、风险管理是制造企业工业物联网应用的主要驱动，其中供应链优化、提升客户体验和确保产品安全性最受企业关注。 \n\n\n\t \n\n\n\t<img src=\"http://api.kingdee.com/kdrive/user/file/public?file_id=8681453&amp;client_id=200547&amp;scode=Z2t1ZmpPaS9aV2dKM3dadVl3K1VJ&amp;sign=ecf94e80fc3cd38dec67f6c8c0f5af10ce36c488\" alt=\"\" />\n\n\n\t\n\n\n\t未来企业工业物联网应用的重点将会由设备和资产转向产品和客户，69%的企业希望获得产品数据、61%的企业希望获得客户数据。 \n\n\n\t  \n\n\n\t受访企业认为当前工业物联网应用面临的最大挑战是缺乏互联互通的标注、数据所有权和安全问题、相关操作人员技能不足这三点。为此，德勤建议企业采取五项策略来实现物联网在工业领域的价值释放： \n\n\n\t1.     在清晰战略的指引下，先重点实施那些将支持其长期目标的具体试点项目，并在试点过程中发现所需要的技术要求以便日后的快速推广和升级。 \n\n\n\t2.     延长产品生命周期和客户的生命周期，寻找将产品的一次性交易转化为持续收入来源的方法 \n\n\n\t3.     强化大数据应用能力，重点围绕业务目标和具体业务问题，从业务战略和IT战略出发，构建大数据应用的顶层框架设计，通过大数据分析手段，深入分析解决问题或作出预测指导决策。 \n\n\n\t4.     提升安全性，建立信息安全架构和机制，并关注网域风险 \n\n\n\t5.     明确生态系统里的定位和合作，依据自身的业务设计和对最终用户的了解程度，来决定将自我定位为生态系统的搭建者、还是模块化产品的提供者，或者是渠道的搭建者。",
+                "newFolderId": "4091427",
+                "pv": 0,
+                "__v": 0,
+                "del": false,
+                "collect": 0,
+                "like": 0,
+                "auditState": 4,
+                "downloads": 0,
+                "pageview": 52,
+                "comments": [],
+                "tags": [],
+                "category2": [
+                    {
+                        "_id": "592532cfb731fa19d4357919",
+                        "name": "读研报"
+                    }
+                ],
+                "download_url": "/kdrive/user/file/package?folder_list=4091427&id=592633ede4b67621f4cbc1ad&name=《从“后知后觉”到“先见之明”释放物联网工业领域价值》研报导读.zip"
+            }
+        ],
+        "reason_ary": [
+            "封面清晰度不够",
+            "展示图片清晰度不够",
+            "封面图片变形",
+            "内容不符合规定",
+            "缺少展示图片",
+            "内容不合法"
+        ],
+        "type": "588470ad08ec05162c2e18c1",
+        "page": 1,
+        "pv": "",
+        "sort": "updated_at",
+        "search": "",
+        "totalPage": 2,
+        "isFirstPage": true,
+        "isLastPage": false
+    }
+}

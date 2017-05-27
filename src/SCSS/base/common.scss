@@ -1,0 +1,10 @@
+@import "variables";
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: $body-background-color;
+}
+img {
+  vertical-align: middle;
+}
