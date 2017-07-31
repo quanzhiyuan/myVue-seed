@@ -1,19 +1,14 @@
 <template>
   <div id="app" class="app">
-    <app-nav></app-nav>
-    <router-view></router-view>
-    <app-footer></app-footer>
+    <div>hello vue</div>
   </div>
 </template>
 
 <script>
-  import appNav from './components/Header'
-  import appFooter from './components/footer'
   export default {
     name: 'app',
-    components: {appNav, appFooter},
+    components: {},
     created: function () {    // 初始化App
-      this.$store.dispatch('initApp')
     }
   }
 </script>
